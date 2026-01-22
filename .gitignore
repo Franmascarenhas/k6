@@ -1,0 +1,11 @@
+# k6 outputs
+scripts/results/*
+!scripts/results/.gitkeep
+
+# OS / editor
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Node (se voc? usar futuramente)
+node_modules/
